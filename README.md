@@ -1,6 +1,6 @@
 # **Traffic Sign Recognition** 
 
-## Writeup - J. Zhao
+## Project Writeup - J. Zhao
 
 ### 2019/10/23
 
